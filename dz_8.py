@@ -1,4 +1,4 @@
-
+вавыа
 # class Student():
 #     def __init__(self, firstName = "Anton", lastName = "Krishtal", groupNumber = "z24-onl", age = 25):
 #         self.firstName = firstName
