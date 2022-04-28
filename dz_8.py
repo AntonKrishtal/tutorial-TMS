@@ -64,7 +64,6 @@
 # student5.getGroupNumber()
 
 
-# №2 задача
 class Product():
     def __init__(self, price, weight, quality):
         self.price = price
@@ -132,7 +131,5 @@ Almonds = Nuts("3 BYN", "3.5 kg", "High")
 Almonds.value()
 Almonds.weighing()
 Almonds.assesment()
-
-
 
 
